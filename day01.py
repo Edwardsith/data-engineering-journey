@@ -7,7 +7,7 @@ hours_worked = 45
 hourly_rate = 150.00
 
 if hours_worked > 40: 
-    print((40*hourly_rate)+((hours_worked-40)*hourly_rate*1.5))
+    print(f"Total pay: {(40*hourly_rate)+((hours_worked-40)*hourly_rate*1.5)}")
 else: 
-    print(hours_worked*hourly_rate)
+    print(f"Total pay: {(hours_worked*hourly_rate)}")
 
