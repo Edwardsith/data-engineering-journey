@@ -1,0 +1,5 @@
+Tony: R32000 (Entry level)
+Sara: R75000 (Mid range)
+Edward: R120000 (High earner)
+Naledi: R45000 (Entry level)
+Micheal: R98000 (Mid range)
